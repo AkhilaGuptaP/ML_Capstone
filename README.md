@@ -1,6 +1,6 @@
 # HEALTH INSURANCE CROSS SELL PREDICTION
 
-#**Problem Statement**
+**Problem Statement**
 
 Insurance company that has provided Health Insurance to its customers now they need to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.
 Objective is to build a model to predict whether a customer would be interested in Vehicle Insurance.
@@ -33,7 +33,7 @@ Vintage : Number of Days, Customer has been associated with the company
 
 Response : 1 - Customer is interested, 0 - Customer is not interested
 
-###**Project Summary**
+**Project Summary**
 
 My Project "Health Insurance cross sell prediction" is data analysis and Machine learning project that explores dataset containing detailed information health insurance customers to build a model to predict whether customers will be interested in Vehicle Insurance provided by the company.
 
